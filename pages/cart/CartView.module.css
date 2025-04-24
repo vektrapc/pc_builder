@@ -1,0 +1,25 @@
+.root {
+    min-height: 100vh;
+    background:#676767;
+  }
+  
+  .root.empty {
+    @apply bg-secondary ;
+  }
+  
+  .lineItemsList {
+    /* @apply py-4 space-y-6 sm:py-0 sm:space-y-0 sm:divide-y sm:divide-accent-2 border-accent-2; */
+  
+  }
+  .button{
+    width: 60%;
+    
+  }
+  .cartbotom{
+    padding: 20px 20px;
+  }
+  @media only screen and (max-width: 767px) {
+    
+  }
+  
+  
