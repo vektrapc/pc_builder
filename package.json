@@ -22,7 +22,7 @@
     "@hookform/resolvers": "^2.8.8",
     "@react-spring/shared": "^9.4.3",
     "@react-spring/web": "^9.2.1",
-    "@types/react-facebook-login": "^4.1.4",
+    "@types/react-facebook-login": "^4.1.11",
     "@vercel/fetch": "^6.1.0",
     "autoprefixer": "^10.2.6",
     "axios": "^0.21.4",
